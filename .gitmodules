@@ -1,0 +1,9 @@
+[submodule "EM Algorithm for Image Segmentation"]
+	path = EM Algorithm for Image Segmentation
+	url = https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation
+[submodule "Mini-batch SGA for Image Classification (MNIST, CIFAR-10)"]
+	path = Mini-batch SGA for Image Classification (MNIST, CIFAR-10)
+	url = https://github.com/zaaachos/Image-Classification-MNISTDATA-CIFAR-10
+[submodule "SGD Logistic Regression and Naive Bayes for IMDB review Classification"]
+	path = SGD Logistic Regression and Naive Bayes for IMDB review Classification
+	url = https://github.com/zaaachos/IMDBClassification
